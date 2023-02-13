@@ -1,6 +1,6 @@
 ### Hello and welcome to my Github profile!
 
-My name is Elissa and I'm currently a MSc student in Life Science Technologies at Aalto University.\
+My name is Elissa and I'm currently a M.Sc. student in Life Science Technologies at Aalto University.\
 I'm a curious-minded problem solver who is enthusiastic about statistics, data science and machine learning,\
 especially when they can be utilized in solving problems related to healthcare and biological phenomena.
 <br>
