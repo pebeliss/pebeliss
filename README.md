@@ -13,6 +13,6 @@ Some of my most recently encountered (and/or highly interesting) course topics i
 - MCMC, HMC, Metropolis(-Hastings) and other stochastic simulation methods
 <br>
 <br>
-<br>
-Github is still quite new to me and I'm only on my way to discovering all the secrects it has to offer.\
+Github is still quite new to me and I'm only on my way to discovering all the secrects it has to offer.
+
 However, I'm not in a hurry and I'm going to enjoy the journey to the unravelment. 😄
