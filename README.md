@@ -6,12 +6,11 @@ especially when they can be utilized in solving problems related to healthcare a
 <br>
 <br>
 <br>
-Some of my most recently encountered (and highly interesting) course topics include:
+Some of my most recently encountered (and/or highly interesting) course topics include:
 - Modelling gene regulation networks and chemical reactions using ODEs
-- Bayesian networks in ML
+- Advanced (Bayesian) probabilistic methods in ML
 - Multivariate statistics: PCA in dimension reduction and outlier detection
-
-In the upcoming months I'll try to bring my profile up to date to contain the most recent course work and projects.
+- MCMC, HMC, Metropolis(-Hastings) and other stochastic simulation methods
 <br>
 <br>
 <br>
