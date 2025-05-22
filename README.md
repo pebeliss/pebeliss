@@ -2,7 +2,7 @@
 
 My name is Elissa and I'm a recent MSc (Tech) graduate from Aalto University.
 
-Beyond that I'm a curious-minded problem-solver, with a passion towards technology and solving analytically challenging problems. Difficult and complex subjects give me fuel and drive rather than petrify! On my free-time I enjoy socialising, painting, singing and making music and designing clothes. 🎨🎶👗
+Beyond that I'm a curious-minded problem-solver, with a passion towards technology and solving analytically challenging problems. Difficult and complex subjects give me fuel and drive rather than petrify! On my free-time I enjoy socialising, painting, singing, making music and designing clothes. 🎨🎶👗
 <br>
 <br>
 ### ☀️**See below for detailed explanation on my experience**☀️
