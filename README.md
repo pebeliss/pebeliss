@@ -7,11 +7,18 @@ Beyond that I'm a curious-minded problem-solver, with a passion towards technolo
 <br>
 ### ☀️**See below for detailed explanation on my experience**☀️
 
-In my studies I have focused on:
+In my MSc studies I have focused on:
 - Probabilistic machine learning
 - Bayesian inference
 - Complex systems and graph theory
 - Stochastic processes and MCMC
+
+I completed my BSc in Molecular Biosciences at University of Helsinki, and grasped the foundations in:
+- Computer Science (minor)
+- Organic chemistry
+- Physics & math
+- Bioinformatics
+- Biosciences
 
 Through working 1.5 years in a large scale software project at Thermo Fisher Scientific and 2 years as a researcher, I have gained valuable insights, practical knowledge and expertise on following areas:
 - Designing, implementing and validating ML models
@@ -26,7 +33,7 @@ My technical toolkit includes but is not limited to:
 - Linux & Unix-like operating systems
 - Microsoft Azure, Azure ML
 - Version control (Git)
-- Bash scripting
+- Bash/Shell scripting
 - SQL
 - VBA
 
@@ -35,8 +42,10 @@ Furthermore, I have become quite a professional troubleshooter and have not yet 
 <br>
 ### ☀️**Current interests**☀️
 
-I'm currently interested in deepening my knowledge on:
+I'm currently interested in deepening my knowledge in:
 - Software development
+- Model Context Protocol (MCP) and AI Agents
+- Internet protocols
 - IT architecture
 - Cloud computing & platforms
 - Blockchains and their interplay with LLMs and other ML models
