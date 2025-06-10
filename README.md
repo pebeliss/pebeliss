@@ -48,6 +48,8 @@ I'm currently interested in deepening my knowledge in:
 - Internet protocols
 - IT architecture
 - Cloud computing & platforms
+- Federated & Swarm ML
+- OMOP
 - Blockchains and their interplay with LLMs and other ML models
 - IoT
 - Cybersecurity
