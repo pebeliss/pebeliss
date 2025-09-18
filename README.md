@@ -16,11 +16,11 @@ Through working 1.5 years in a large scale software project at Thermo Fisher Sci
 - Working in multidisciplinary and multiorganizational teams
 
 My technical toolkit includes but is not limited to:
-- Proficiency in Python & R
+- Excellence in Python & R
 - Tensorflow, Keras, PyTorch, Pandawss, NumPy, Scikit-learn, STAN, Tidyverse
 - Linux & Unix-like operating systems
 - MS Azure; ML, DevOps, Databricks
-- Version control (Git)
+- Version control; Git
 - Bash/Shell scripting
 - SQL
 - VBA
