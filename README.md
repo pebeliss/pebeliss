@@ -5,6 +5,7 @@ My name is Elissa and I'm a recent MSc (Tech) graduate from Aalto University spe
 Beyond that I'm a curious-minded problem-solver, with a passion towards technology and solving analytically challenging problems. Difficult and complex subjects give me fuel and drive rather than petrify! On my free-time I enjoy socialising, variety of sports, painting, singing, making music and designing clothes. 🎨🎶👗
 <br>
 <br>
+
 ### ☀️**See below for detailed explanation on my experience**☀️
 
 Through working 1.5 years in a large scale software project at Thermo Fisher Scientific and 2 years as a researcher, I have gained valuable insights, practical knowledge and expertise on following areas:
@@ -41,9 +42,8 @@ I completed my BSc in Molecular Biosciences at University of Helsinki, and grasp
 - Physics & math
 - Bioinformatics
 - Biosciences
+<br>
 
-<br>
-<br>
 ### ☀️**Current interests**☀️
 
 I'm currently interested in deepening my knowledge in:
