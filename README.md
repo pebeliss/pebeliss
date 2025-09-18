@@ -15,6 +15,7 @@ Through working 1.5 years in a large scale software project at Thermo Fisher Sci
 - Data engineering
 - Handling personal level data in accordance to GDPR
 - Working in multidisciplinary and multiorganizational teams
+- [Scientific research](https://doi.org/10.1111/vox.70016)
 
 ### My technical toolkit includes but is not limited to:
 
