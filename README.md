@@ -1,6 +1,6 @@
 # Hello and welcome to my Github profile!
 
-My name is Elissa and I'm a recent MSc (Tech) graduate from Aalto University specialized in AI (ML) and data science.
+My name is Elissa and I'm a MSc (Tech) graduate from Aalto University specialized in AI (ML) and data science.
 
 Beyond that I'm a curious-minded problem-solver, with a passion towards technology and solving analytically challenging problems. Difficult and complex subjects give me fuel and drive rather than petrify! On my free-time I enjoy socialising, variety of sports, painting, singing and designing clothes. 🎨🎶👗
 <br>
